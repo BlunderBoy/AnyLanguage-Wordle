@@ -1,8 +1,7 @@
 {
   "name": "wordle",
   "version": "0.1.0",
-  "homepage": "https://BlunderBoy.github.io/AnyLanguage-Wordle",
-  "private": true,
+  "homepage": "https://blunderboy.github.io/AnyLanguage-Wordle",
   "dependencies": {
     "@bcgov/bc-sans": "^1.0.1",
     "@headlessui/react": "^1.4.2",
