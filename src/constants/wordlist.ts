@@ -1,8 +1,6 @@
 import { CONFIG } from './config'
 
-export const WORDS = [
-  'magie'
-]
+export const WORDS = ['magie']
 
 if (CONFIG.normalization) {
   WORDS.forEach((val, i) => (WORDS[i] = val.normalize(CONFIG.normalization)))
