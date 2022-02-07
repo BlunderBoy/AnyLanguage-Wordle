@@ -1,5 +1,3 @@
-import { VariableIcon } from '@heroicons/react/outline'
-import { zeroPad } from 'react-countdown'
 import { CONFIG } from './config'
 
 export const ORTHOGRAPHY = [
